@@ -5,4 +5,4 @@ João VItor Baptista Moreira
 [notebook](./lab01/lab01.ipynb")
 
 # Tarefa 2
-!(./lab01/images/"diagrama.png")
+![](./lab01/images/"diagrama.png")
