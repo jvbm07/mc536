@@ -1,4 +1,3 @@
 # Aluno
 João Vitor Baptista Moreira
-# RA
-237833
+RA: 237833
