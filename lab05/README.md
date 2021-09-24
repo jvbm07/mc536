@@ -1,10 +1,4 @@
-# Modelo para Apresentação do Lab05 - Marcadores e Taxonomia em Cypher
-
-Estrutura de pastas:
-
-~~~
-├── README.md  <- arquivo apresentando a tarefa
-~~~
+# Lab05 - Marcadores e Taxonomia em Cypher
 
 # Aluno
 * `237833`: `João Vitor Baptista Moreira`
