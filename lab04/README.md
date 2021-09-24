@@ -1,4 +1,4 @@
-# Modelo para Apresentação do Lab04 - SQL Avançado (NHANES e Taxonomia)
+# Lab04 - SQL Avançado (NHANES e Taxonomia)
 
 # Aluno
 * `237833`: `João Vitor Baptista Moreira`
